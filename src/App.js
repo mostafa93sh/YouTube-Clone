@@ -9,7 +9,7 @@ import SearchFeed from "./components/SearchFeed";
 const App = () => {
   return (
     <BrowserRouter>
-      <Box>
+      <Box sx={{ backgroundColor: "#000" }}>
         <NavBar />
         <Routes>
           <Route path='/' exact element={<Feed />} />
