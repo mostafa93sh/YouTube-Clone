@@ -10,7 +10,7 @@ const Videos = ({ videos }) => {
       {videos.map((item, idx) => (
         <Box key={idx}>
           {item.id.videoId && <VideoCard video={item} />}
-          {/* {item.id.channelId && <ChannelCard />} */}
+          {item.id.channelId && <ChannelCard channelDetails={item} />}
         </Box>
       ))}
     </Stack>
