@@ -1,6 +1,6 @@
 # YouTube Clone by ReactJS
 
-a responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App
+A responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App
 
 ### Technologies 
 - ReactJS 
